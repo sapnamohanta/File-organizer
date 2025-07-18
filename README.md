@@ -1,4 +1,4 @@
-File Organizer
+File Organizer.
 
 
 A Java-based file organizer that categorizes and moves files from one folder to specific subfolders based on their file types (e.g., Images, Documents, Videos). It also logs the file movements in a log file.
