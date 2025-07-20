@@ -1,7 +1,7 @@
 File Organizer.
 
 
-A Java-based file organizer that categorizes and moves files from one folder to specific subfolders based on their file types (e.g., Images, Documents, Videos). It also logs the file movements in a log file.
+A Java-based file organizer that categorizes and moves files from one folder to specific subfolders based on their file types (e.g., Images, Documents and Videos). It also logs the file movements in a log file.
 
 Features 📂
 File Categorization: Organizes files into categories such as Images, Documents, and Videos based on file extensions.
