@@ -77,8 +77,3 @@ Moved: video.mp4 -> Videos
 - The program will create subfolders for each category (e.g., Images, Documents, Videos) if they do not exist.
 - If a file already exists in the target folder, the program will rename the file by appending a number to the name (e.g., file_1.jpg).
 
-## Contribution 🚀
-
-## License ⚖️
-
-This project is licensed under the MIT License. Check the [LICENSE](./LICENSE) file for more details.
